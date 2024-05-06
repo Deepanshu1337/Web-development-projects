@@ -8,7 +8,7 @@ This project includes a blog layout with multiple card components showcasing var
 
 ## Preview
 
-![Blog Preview](preview.png)
+![Blog Preview](Preview.png)
 
 ## How to Run
 
