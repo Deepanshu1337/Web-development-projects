@@ -20,8 +20,8 @@ To run this project on your local machine, follow these steps:
 
 ## Project Structure
 
-1. index.html: Main HTML file containing the blog layout.
-2. tyle.css: CSS file for styling the blog components.
+1. index.html : Main HTML file containing the blog layout.
+2. tyle.css : CSS file for styling the blog components.
 
 ## Technologies Used
 1. HTML5
