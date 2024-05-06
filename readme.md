@@ -20,15 +20,15 @@ To run this project on your local machine, follow these steps:
 
 ## Project Structure
 
-index.html: Main HTML file containing the blog layout.
-style.css: CSS file for styling the blog components.
+1. index.html: Main HTML file containing the blog layout.
+2. tyle.css: CSS file for styling the blog components.
 
 ## Technologies Used
-HTML5
-CSS3
-Google Fonts API
-Unsplash API (for placeholder images)
-DiceBear API (for avatar images)
-Author
+1. HTML5
+2. CSS3
+3. Google Fonts API
+4. Unsplash API (for placeholder images)
+5. DiceBear API (for avatar images)
 
-## Deepanshu - [https://github.com/Deepanshu1337]
+## Author
+Deepanshu - [https://github.com/Deepanshu1337]
