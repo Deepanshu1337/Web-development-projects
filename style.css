@@ -153,6 +153,7 @@ width: 5rem;
   height: fit-content;
   border: 1px solid rgb(71, 69, 69);
   border-radius: 10%;
+  padding: 0.1rem;
 }
 .tag_container span {
   font-size: 0.8rem;
