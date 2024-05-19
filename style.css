@@ -1,15 +1,13 @@
 body {
   height: 100vh;
   width: 100vw;
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   box-sizing: border-box;
 
-  .roboto-regular {
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-  }
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
   
   
 }
@@ -27,7 +25,7 @@ body {
 
 /* -------------------------header-container-styling----------------------------------------- */
 .header-container {
-  width: 100%;
+  width: 95%;
   display: flex;
   margin-top: 1rem;
 
@@ -40,12 +38,13 @@ body {
 .header-container h2 {
     font-size: 2rem;
     font-weight: 700;
-  margin: 0;
+  margin: 1rem auto;
   color: rgb(26, 25, 25);
   line-height: 1.5rem;
 }
 
 .header-container .header-desc p {
+  margin: 0 auto;
   color: rgb(99, 98, 98);
   line-height: 1.1rem;
   font-size: 0.87rem;
@@ -54,7 +53,7 @@ body {
 .grid-container {
   width: 70%;
   height: 100%;
-  margin: auto;
+  margin: 0 auto;
 
   display: grid;
   grid-template-columns: 1fr 1fr 1fr ;
