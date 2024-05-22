@@ -16,7 +16,7 @@ To run this project on your local machine, follow these steps:
 
 1. Download the zip folder by clicking on code.
 2. Extract the zip folder.
-3. run index.html file.
+3. Open the folder in vs code and open it with live server.
 
 ## Project Structure
 
